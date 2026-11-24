@@ -1,0 +1,6 @@
+18 21 Szeged Veszprem 10 12
+25 20 Tatabanya Ozd 11 13
+17 21 Dabas Cegled 11 14
+19 19 Vecses Ajka 13 12
+23 25 Eger Kecskemet 11 10
+20 21 Csurgo Tata 10 11
